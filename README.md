@@ -1,4 +1,4 @@
 # Sentiment Analysis
 
-Sentiment Analysis of Amazon reviews using a bag of words model.
-Perceptron algorithm and pegasos algorithm are used for the classifier.
+Sentiment analysis of Amazon reviews using bag of words model.
+Pegasos algorithm is used for the classifier.
